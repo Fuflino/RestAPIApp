@@ -1,0 +1,10 @@
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\bin\Debug\DLL.dll.config
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\bin\Debug\DLL.dll
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\bin\Debug\DLL.pdb
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\bin\Debug\EntityFramework.dll
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\bin\Debug\EntityFramework.xml
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\obj\Debug\DLL.dll
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\obj\Debug\DLL.pdb
+c:\users\stefanthomsen\documents\visual studio 2015\Projects\RestAPITest\DLL\obj\Debug\DLL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\DLL.dll.config
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\DLL.dll
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\DLL.pdb
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\EntityFramework.dll
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\Newtonsoft.Json.dll
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\EntityFramework.xml
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\Newtonsoft.Json.xml
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\obj\Release\DLL.csprojResolveAssemblyReference.cache
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\obj\Release\DLL.dll
+C:\Users\StefanThomsen\Documents\Visual Studio 2015\Projects\RestAPITest\DLL\obj\Release\DLL.pdb
